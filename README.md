@@ -5,7 +5,8 @@
 If you want to have more information about our implementaiton please look at project description in the pdf file.
 
 ## Results
-![result](GIF.gif)
+![Breakout](BreakoutGIF.gif)
+![Assault](AssaultGIF.gif)
 
 ## Contacts 
 
