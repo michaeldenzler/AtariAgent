@@ -5,7 +5,7 @@
 If you want to have more information about our implementaiton please look at project description in the pdf file.
 
 ## Results
-![](AssaultResultGIF.gif)
+![grab-landing-page](AssaultResultGIF.gif)
 
 ## Contacts 
 
